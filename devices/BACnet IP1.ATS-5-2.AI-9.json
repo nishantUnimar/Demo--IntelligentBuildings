@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3001880",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Amps C",
+    "enabled": false,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.ATS-5-2.AI-9",
+    "parent_device_ip": "10.16.192.18",
+    "present_value": "177.127090",
+    "state": "new",
+    "time_stamp": "2017-06-16T21:59:32.412447",
+    "type": "bacnet-device",
+    "units": "amperes",
+    "update_method": "polling"
+}
