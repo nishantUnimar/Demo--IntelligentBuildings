@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3000349",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Positive KWatts 3-Ph Avg",
+    "enabled": true,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4318.AI-25",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "0.000000",
+    "state": "new",
+    "time_stamp": "2017-05-24T16:29:54.478711",
+    "type": "bacnet-device",
+    "units": "kilowatts",
+    "update_method": "polling"
+}
