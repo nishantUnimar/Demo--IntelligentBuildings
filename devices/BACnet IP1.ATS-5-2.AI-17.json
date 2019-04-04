@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3001890",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "KW-hours Delivered",
+    "enabled": false,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.ATS-5-2.AI-17",
+    "parent_device_ip": "10.16.192.18",
+    "present_value": "0.000000",
+    "state": "new",
+    "time_stamp": "2017-06-16T19:54:07.785006",
+    "type": "bacnet-device",
+    "units": "kilowattHours",
+    "update_method": "polling"
+}
