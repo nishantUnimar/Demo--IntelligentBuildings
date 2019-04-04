@@ -1,0 +1,42 @@
+{
+    "app_id": "eef09cc60bb0edc794e6ffc483b401",
+    "collection_id": "faf09cc60b94f694d59de8e8f143",
+    "items": [],
+    "name": "System Alerts",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "resolved",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "email_alert_sent",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alert_email_recipients",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
