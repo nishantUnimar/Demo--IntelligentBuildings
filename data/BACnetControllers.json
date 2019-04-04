@@ -1,0 +1,105 @@
+{
+    "app_id": "eef09cc60bb0edc794e6ffc483b401",
+    "collection_id": "f8f09cc60b9080b1fcac9ef3934a",
+    "items": [
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 523,
+            "device_name": "HY10-NCE-05-04",
+            "ip_address": "10.16.161.142"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 565,
+            "device_name": "HY10-NCE-54-02",
+            "ip_address": "10.16.164.208"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 522,
+            "device_name": "HY10-NCE-05-03",
+            "ip_address": "10.16.161.141"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 628,
+            "device_name": "HY10-NIE-04-06",
+            "ip_address": "10.16.161.80"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 586,
+            "device_name": "HY10-NAE-01-02",
+            "ip_address": "10.16.160.145"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 599,
+            "device_name": "HY10-NCE-01-01",
+            "ip_address": "10.16.160.138"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 504,
+            "device_name": "HY10-NCE-05-08",
+            "ip_address": "10.16.161.146"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 600,
+            "device_name": "HY10-NAE-C1-02",
+            "ip_address": "10.16.192.19"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 564,
+            "device_name": "HY10-NCE-54-01",
+            "ip_address": "10.16.164.207"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 525,
+            "device_name": "HY10-NCE-05-06",
+            "ip_address": "10.16.161.144"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 612,
+            "device_name": "HY10-NAE-26-02",
+            "ip_address": "10.16.163.20"
+        },
+        {
+            "all_sensors_registered": true,
+            "bacnet_device_identifier": 505,
+            "device_name": "HY10-NAE-C1-01",
+            "ip_address": "10.16.192.18"
+        }
+    ],
+    "name": "BACnetControllers",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "ip_address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "bacnet_device_identifier",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "all_sensors_registered",
+            "ColumnType": "bool",
+            "PK": false
+        }
+    ]
+}
