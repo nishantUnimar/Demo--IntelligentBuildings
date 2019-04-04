@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3000191",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "KWatts 3-Ph total",
+    "enabled": true,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4303.AI-10",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "-422.3440856933594",
+    "state": "new",
+    "time_stamp": "2017-10-10T05:24:26.337619",
+    "type": "bacnet-device",
+    "units": "kilowatts",
+    "update_method": "cov"
+}
