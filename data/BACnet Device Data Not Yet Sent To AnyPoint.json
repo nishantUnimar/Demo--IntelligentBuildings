@@ -1,0 +1,27 @@
+{
+    "app_id": "eef09cc60bb0edc794e6ffc483b401",
+    "collection_id": "f6f09cc60bf2e1fe81bfe78ba203",
+    "items": [],
+    "name": "BACnet Device Data Not Yet Sent To AnyPoint",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "present_value",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
