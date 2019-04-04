@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3000345",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Amps A",
+    "enabled": true,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4318.AI-7",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "0.000000",
+    "state": "new",
+    "time_stamp": "2017-05-24T16:29:53.276820",
+    "type": "bacnet-device",
+    "units": "amperes",
+    "update_method": "polling"
+}
