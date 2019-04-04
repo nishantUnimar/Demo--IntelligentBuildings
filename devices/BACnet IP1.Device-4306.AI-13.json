@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3000125",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Power Factor 3-Ph total",
+    "enabled": false,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4306.AI-13",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "0.9502924680709839",
+    "state": "new",
+    "time_stamp": "2017-09-21T19:07:30.069090",
+    "type": "bacnet-device",
+    "units": "powerFactor",
+    "update_method": "polling"
+}
