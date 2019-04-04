@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3000330",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Volts C-A",
+    "enabled": false,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4317.AI-6",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "475.853271",
+    "state": "new",
+    "time_stamp": "2017-06-16T03:36:16.074708",
+    "type": "bacnet-device",
+    "units": "volts",
+    "update_method": "polling"
+}
