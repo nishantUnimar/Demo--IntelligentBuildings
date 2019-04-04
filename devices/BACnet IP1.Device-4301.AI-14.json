@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3001320",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "Frequency",
+    "enabled": true,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4301.AI-14",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "60.010635",
+    "state": "new",
+    "time_stamp": "2017-06-15T15:57:32.225455",
+    "type": "bacnet-device",
+    "units": "hertz",
+    "update_method": "polling"
+}
