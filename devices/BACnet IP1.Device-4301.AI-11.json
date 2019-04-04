@@ -1,0 +1,23 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "bacnet_identifier": "3001322",
+    "bacnet_object_type": "analogInput",
+    "buildingside": "",
+    "causetrigger": "true",
+    "certificate": null,
+    "description": "KVAR 3-Ph total",
+    "enabled": false,
+    "floorid": "",
+    "groupid": "",
+    "mapxcoordinates": "",
+    "mapycoordinates": "",
+    "name": "BACnet IP1.Device-4301.AI-11",
+    "parent_device_ip": "10.16.192.19",
+    "present_value": "1.1462441682815552",
+    "state": "new",
+    "time_stamp": "2017-09-21T19:12:39.797815",
+    "type": "bacnet-device",
+    "units": "kilovoltAmperesReactive",
+    "update_method": "polling"
+}
