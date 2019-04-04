@@ -1,0 +1,27 @@
+{
+    "app_id": "eef09cc60bb0edc794e6ffc483b401",
+    "collection_id": "f6f09cc60be283a6a3a5b3d5ddaf01",
+    "items": [],
+    "name": "BACnet Device Data",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "present_value",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
